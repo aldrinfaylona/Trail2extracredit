@@ -1,3 +1,3 @@
 # Trail2extracredit
 
-http://aldrinfaylona.github.io/docs/Extracredit.html.
+http://aldrinfaylona.github.io/repository/Extracredit.html.
